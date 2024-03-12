@@ -19,4 +19,4 @@
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlafGrzesiak&layout=compact&theme=" alt=OlafGrzesiak />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OlafGrzesiak&theme=dark" alt="OlafGrzesiak" /></p>
+
